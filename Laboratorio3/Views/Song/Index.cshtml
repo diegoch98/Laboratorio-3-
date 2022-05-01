@@ -1,0 +1,34 @@
+﻿@model List<Laboratorio3.Models.SongModel>;
+
+@{
+    ViewData["Title"] = "Songs";
+}
+
+<h1>@ViewBag.MainTitle</h1>
+
+<div>
+    <table class="table">
+
+        <thead>
+            <tr>
+                <th>Song title</th>
+                <th>Gender</th>
+                <th>Released date</th>
+                <th>Singer</th>
+                <th>Length</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.SongName</td>
+                    <td>@item.Genre</td>
+                    <td>@item.ReleasedDate</td>
+                    <td>@item.Singer</td>
+                    <td>@item.Length</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

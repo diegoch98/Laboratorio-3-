@@ -37,3 +37,4 @@ C:\Users\Diego\source\repos\Laboratorio-3-\Laboratorio3\obj\Debug\netcoreapp3.1\
 C:\Users\Diego\source\repos\Laboratorio-3-\Laboratorio3\obj\Debug\netcoreapp3.1\Laboratorio3.pdb
 C:\Users\Diego\source\repos\Laboratorio-3-\Laboratorio3\obj\Debug\netcoreapp3.1\Laboratorio3.genruntimeconfig.cache
 C:\Users\Diego\source\repos\Laboratorio-3-\Laboratorio3\obj\Debug\netcoreapp3.1\Laboratorio3.csproj.CopyComplete
+C:\Users\Diego\source\repos\Laboratorio-3-\Laboratorio3\obj\Debug\netcoreapp3.1\Razor\Views\Song\Index.cshtml.g.cs
